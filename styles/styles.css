@@ -5,8 +5,8 @@ body {
 
 div {
   margin-top: 15px;
-  margin-left: 650px;
-  margin-right: 650px;
+  margin-left: 225px;
+  margin-right: 225px;
   margin-bottom: 5px;
 }
 
@@ -16,8 +16,8 @@ div {
 }
 
 .section-style {
-  margin-right: 650px;
-  margin-left: 650px;
+  margin-right: 25px;
+  margin-left: 25px;
   background-color: white;
 }
 
