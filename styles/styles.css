@@ -3,13 +3,6 @@ body {
   background-color: #abdff8;
 }
 
-div {
-  margin-top: 15px;
-  margin-left: 15px;
-  margin-right: 15px;
-  margin-bottom: 5px;
-}
-
 .image-section {
   display: flex;
   justify-content: center;
