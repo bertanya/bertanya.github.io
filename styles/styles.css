@@ -1,13 +1,10 @@
 body {
   text-align: center;
-  background-color: #abdff8;
+  background-color: #f0e8c5;
 }
 
 div {
   margin-top: 15px;
-  margin-left: 650px;
-  margin-right: 650px;
-  margin-bottom: 5px;
 }
 
 .image-section {
@@ -16,8 +13,8 @@ div {
 }
 
 .section-style {
-  margin-right: 650px;
-  margin-left: 650px;
+  margin-right: 25px;
+  margin-left: 25px;
   background-color: white;
 }
 
@@ -58,7 +55,7 @@ hr {
   border: none;
   cursor: pointer;
   width: 100%;
-  opacity:0.8;
+  opacity: 0.9;
 }
 
 .registerbtn:hover {
@@ -75,12 +72,3 @@ a {
   background-color: #f1f1f1;
   text-align: center;
 }
-
-/*
-p {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-}
-*/
